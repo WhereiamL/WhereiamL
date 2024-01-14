@@ -10,4 +10,7 @@ Welcome to my GitHub profile! 😊
 📫 How to reach me: The best way to reach me is via Discord: STIFLER7171
 
 Don't forget to check out my repositories and star your favorites! Happy coding! ⭐
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhereiamL)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WhereiamL)](https://github.com/anuraghazra/github-readme-stats)
