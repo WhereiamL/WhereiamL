@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 😊
 
 💬 Ask me about: Feel free to ask me about anything related to coding!
 
-📫 How to reach me: The best way to reach me is via Discord: STIFLER7171
+📫 How to reach me: The best way to reach me is via Discord: [STIFLER7171](https://discord.gg/ta2dB6kUx5)
 
 Don't forget to check out my repositories and star your favorites! Happy coding! ⭐
 
